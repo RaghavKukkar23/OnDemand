@@ -1,4 +1,5 @@
-On Demand Application
+**On Demand Application**
+
 Introduction
 The "On Demand" application is designed to facilitate individuals running side and small businesses to enhance their visibility and reach within their local community. Additionally, residents in the area can easily discover the services offered by these providers and compare prices with market standards. This platform aims to benefit both service providers and customers, fostering a mutually beneficial relationship.
 
